@@ -1,0 +1,6 @@
+service: "bento_service:svc"
+include:
+  - "bento_service.py"
+python:
+  packages:
+    - scikit-learn

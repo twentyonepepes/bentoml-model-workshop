@@ -1,0 +1,8 @@
+bentoml
+fastapi
+starlette
+pydantic
+pydantic-core
+typing_extensions
+uvicorn
+scikit-learn
